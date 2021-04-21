@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jf160
 - 👀 I’m interested in Electrical Engineering
 - 🌱 I’m currently learning Python
-- Take a look at the repositories on the left hand side! It has some of the projects I am working on
+- Take a look at the repositories! It has some of the projects I am working on
 - 📫 How to reach me: justinfrancisco150@gmail.com
 
 <!---
